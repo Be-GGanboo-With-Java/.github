@@ -1,14 +1,10 @@
 # 스터디 진행 방식
 
-> 매주 월요일 22시 구글미팅으로 진행합니다.
+### - 매주 월요일 22시 구글미팅으로 진행합니다.
 
-<br>
+### - 자바 심화 과정에 관하여 각자 발표 자료 준비 후 발표합니다. (겉핥기 식 개념이 아닌 조금 더 진보된 개념들 위주로)
 
-> 자바 심화 과정에 관하여 각자 발표 자료 준비 후 발표합니다. (겉핥기 식 개념이 아닌 조금 더 진보된 개념들 위주로)
-
-<br>
-
-> 해당하는 주차에 부여된 문제를 풀어온 후 풀이과정을 설명합니다.
+### - 해당하는 주차에 부여된 문제를 풀어온 후 풀이과정을 설명합니다.
 
 ---
 
@@ -20,6 +16,13 @@
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12928|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12926|
 
+<br>
+
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
+
 ---
 
 ### 2주차 [220516 예정]
@@ -29,6 +32,11 @@
 |Java|객체 생성과 소멸 시 내부 동작 과정|
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12925|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12922|
+
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
 
 ---
 
@@ -40,6 +48,11 @@
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12919|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12921|
 
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
+
 ---
 
 ### 4주차 [220530 예정]
@@ -49,6 +62,11 @@
 |Java|오버로딩 오버라이딩|
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12917|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12918|
+
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
 
 ---
 
@@ -60,6 +78,11 @@
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12915|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12916|
 
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
+
 ---
 
 ### 6주차 [220613 예정]
@@ -70,6 +93,11 @@
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12910|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12912|
 
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
+
 ---
 ### 7주차 [220620 예정]
 
@@ -79,6 +107,11 @@
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12903|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12906|
 
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
+
 ---
 ### 8주차 [220627 예정]
 
@@ -86,5 +119,10 @@
 |---|---|
 |Java|Build Tools (Gradle, Maven ...)|
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/17682|
+
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
 
 ---
