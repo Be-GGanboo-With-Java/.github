@@ -29,7 +29,7 @@
 
 |구분|내용|
 |---|---|
-|Java|객체 생성과 소멸 시 내부 동작 과정,Iterator 와 foreach 의 차이점 (제네릭 타입연관지어 정리), Null 과 is empty 차이점  |
+|Java|객체 생성과 소멸 시 내부 동작 과정, Iterator 와 foreach 의 차이점 (제네릭 타입연관지어 정리), Null 과 is empty 차이점  |
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12925|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12922|
 
