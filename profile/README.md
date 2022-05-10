@@ -20,7 +20,7 @@
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
-|JIWON-JEONG||
+|JIWON-JEONG|https://velog.io/@john7645/OOP-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%99%80-PP-%EC%A0%88%EC%B0%A8%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D|
 |Diger-King|https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week1/ObjectOrientedProgramming.md|
 
 ---
