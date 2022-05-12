@@ -36,7 +36,7 @@
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King||
+|Diger-King|https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/CreateAndPerishObject.md, https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/NullVsEmpty.md, https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/IteratorVsForeach.md|
 
 ---
 
