@@ -44,7 +44,7 @@
 
 |구분|내용|
 |---|---|
-|Java|상속 시 메모리 동작 과정 (+ 가비지 컬렉터)|
+|Java|가비지 컬렉터|
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12919|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12921|
 
