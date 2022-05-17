@@ -25,7 +25,7 @@
 
 ---
 
-### 2주차 [220516 예정]
+### 2주차 [220516 完]
 
 |구분|내용|
 |---|---|
@@ -44,7 +44,7 @@
 
 |구분|내용|
 |---|---|
-|Java|가비지 컬렉터|
+|Java|JVM(MetaSpace(Method Area)) + 가비지 컬렉터|
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12919|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12921|
 
@@ -59,7 +59,7 @@
 
 |구분|내용|
 |---|---|
-|Java|오버로딩 오버라이딩|
+|Java|JIT 컴파일러 + Java 빌드 과정|
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12917|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12918|
 
@@ -74,7 +74,7 @@
 
 |구분|내용|
 |---|---|
-|Java|생성자, 추상메서드의 심화|
+|Java|익명 객체 + 익명 클래스|
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12915|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12916|
 
@@ -89,7 +89,7 @@
 
 |구분|내용|
 |---|---|
-|Java|JVM|
+|Java|Junit5|
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12910|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12912|
 
@@ -103,7 +103,7 @@
 
 |구분|내용|
 |---|---|
-|Java|JDK, SDK, JRE, JAR, WAR|
+|Java||
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12903|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12906|
 
@@ -117,7 +117,7 @@
 
 |구분|내용|
 |---|---|
-|Java|Build Tools (Gradle, Maven ...)|
+|Java||
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/17682|
 
 |발표자|발표자료 레포지토리 링크|
