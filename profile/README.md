@@ -35,7 +35,7 @@
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
-|JIWON-JEONG||
+|JIWON-JEONG|https://velog.io/@john7645/%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%86%8C%EB%A9%B8-%EC%8B%9C-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-%EA%B3%BC%EC%A0%95, https://velog.io/@john7645/isEmpty-%EC%99%80-null, https://github.com/JIWEON-JEONG/Study/blob/master/src/com/company/iter_foreach/CompareIterForeach.java|
 |Diger-King|https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/CreateAndPerishObject.md, https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/NullVsEmpty.md, https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/IteratorVsForeach.md|
 
 ---
