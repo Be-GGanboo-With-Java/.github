@@ -51,7 +51,7 @@
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King||
+|Diger-King|https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week3/JVM.md, https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week3/GarbageCollector.md|
 
 ---
 
