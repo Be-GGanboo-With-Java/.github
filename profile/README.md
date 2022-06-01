@@ -55,7 +55,7 @@
 
 ---
 
-### 4주차 [220530 예정]
+### 4주차 [220530 완]
 
 |구분|내용|
 |---|---|
@@ -66,7 +66,7 @@
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King||
+|Diger-King|https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week4/JIT-Compiler.md|
 
 ---
 
@@ -74,7 +74,7 @@
 
 |구분|내용|
 |---|---|
-|Java|익명 객체 + 익명 클래스|
+|Java|컬렉션 |
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12915|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12916|
 
