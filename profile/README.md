@@ -74,7 +74,7 @@
 
 |구분|내용|
 |---|---|
-|Java|컬렉션 |
+|Java|컬렉션|
 |Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12915|
 |Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12916|
 
@@ -126,3 +126,8 @@
 |Diger-King||
 
 ---
+
+# 추가사항
+https://edu.nextstep.camp/c/9WPRB0ys/
+계층 아키텍쳐
+예외처리
