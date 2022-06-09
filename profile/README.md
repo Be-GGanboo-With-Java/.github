@@ -50,7 +50,7 @@
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
-|JIWON-JEONG||
+|JIWON-JEONG|https://velog.io/@john7645/JVM-Specification-%ED%83%84%EC%83%9D%EB%B0%B0%EA%B2%BD, https://velog.io/@john7645/GC|
 |Diger-King|https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week3/JVM.md, https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week3/GarbageCollector.md|
 
 ---
