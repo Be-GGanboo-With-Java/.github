@@ -80,7 +80,7 @@
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
-|JIWON-JEONG||
+|JIWON-JEONG|https://github.com/JIWEON-JEONG/Study/tree/master/src/com/company/collection|
 |Diger-King||
 
 ---
