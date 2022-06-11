@@ -65,7 +65,7 @@
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
-|JIWON-JEONG||
+|JIWON-JEONG|https://velog.io/@john7645/JIT-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-IBM-doc|
 |Diger-King|https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week4/JIT-Compiler.md|
 
 ---
