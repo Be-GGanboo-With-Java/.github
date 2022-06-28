@@ -1,10 +1,24 @@
 # [최종보스 "자바" 레이드] 스터디 진행 방식
 
-### - 매주 월요일 22시 구글미팅으로 진행합니다.
+- 매주 화요일 23시 구글미팅으로 진행합니다.
 
-### - 자바 심화 과정에 관하여 각자 발표 자료 준비 후 발표합니다. (겉핥기 식 개념이 아닌 조금 더 진보된 개념들 위주로)
+- Java 심화 과정에 관하여 각자 발표 자료 준비 후 발표합니다.
 
-### - 해당하는 주차에 부여된 문제를 풀어온 후 풀이과정을 설명합니다.
+- 해당하는 주차에 부여된 문제를 풀어온 후 풀이과정을 설명합니다.
+
+---
+
+## 2022년 07월 이후 변경 및 추가사항 공지
+
+Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
+
+스터디 모임 횟수 확장
+
+<br>
+
+| 화 (Theory)                                              | 목 (Java-Spring)                                                                        | 토 (Spring-DataBase) |
+|---------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------|
+| 자바(Spring) 관련 이론,<br><br> 객체지향 사실과 오해, <br><br> 이펙티브 자바 | [박재성님 플레이그라운드 강좌](https://edu.nextstep.camp/c/9WPRB0ys/) 를 듣고 SUWIKI 테스트 코드 작성, 구현문제풀이 | QueryDSL            |
 
 ---
 
@@ -83,42 +97,23 @@
 |JIWON-JEONG|https://github.com/JIWEON-JEONG/Study/tree/master/src/com/company/collection|
 |Diger-King||
 
----
-
-### 6주차 [220628 예정]
-
-|구분|내용|
-|---|---|
-|Java|Junit5|
-|Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12910|
-|Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12912|
-
-|발표자|발표자료 레포지토리 링크|
-|---|---|
-|JIWON-JEONG||
-|Diger-King||
+<br>
 
 ---
-### 7주차 [예정]
 
-|구분|내용|
-|---|---|
-|Java||
-|Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/12903|
-|Implementation 2|https://programmers.co.kr/learn/courses/30/lessons/12906|
-
-|발표자|발표자료 레포지토리 링크|
-|---|---|
-|JIWON-JEONG||
-|Diger-King||
+![img](https://www.fssaifoodlicense.com/wp-content/uploads/2016/09/How-to-Renew-Your-FSSAI-Food-License-legalraasta-800x366.jpg)
 
 ---
-### 8주차 [220627 예정]
 
-|구분|내용|
-|---|---|
-|Java||
-|Implementation 1|https://programmers.co.kr/learn/courses/30/lessons/17682|
+### <화요일> - 1주차 [22/07/05 예정]
+
+| 구분           | 내용                                                                                                                                  |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Theory       | Gradle, jar, war                                                                                                                    |
+| 객체지향의 사실과 오해 | 협력하는 객체들의 공동체, 이상한 나라의 객체                                                                                                           |
+| 이펙티브 자바      | [아이템1. 생성자 대신 static 팩토리 메서드를 고려해 볼 것](https://www.youtube.com/watch?v=X7RXP6EI-5E&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=1) |
+
+<br>
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
@@ -127,7 +122,52 @@
 
 ---
 
-# 추가사항
-https://edu.nextstep.camp/c/9WPRB0ys/
+### <목요일> - 1주차 [22/07/07 예정]
+
+| 구분           | 내용                                        |
+|--------------|-------------------------------------------|
+| Java-Spring  | UserDomain, EvaluateDomain 테스트 코드 작성 후 리뷰 |
+
+<br>
+
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
+
+---
+
+### <토요일> - 1주차 [22/07/09 예정]
+
+| 구분              | 내용                                                                                        |
+|-----------------|-------------------------------------------------------------------------------------------|
+| Spring-Database | [김영한님 강의](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
+
+<br>
+
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
+
+
+
+---
+
+
+
+---
+
+## 다룰 예정인 주제
+
 계층 아키텍쳐
+
 예외처리
+
+부동소수점 vs 고정소수점
+
+## 추천 서적
+
+리팩터링
+
+오브젝트
