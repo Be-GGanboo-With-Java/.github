@@ -118,7 +118,17 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King||
+|Diger-King|https://diger-king.github.io/blog/JARvsWAR|
+
+
+<br>
+
+
+|구분|토의 내용 정리|
+|---|---|
+|객체지향의 사실과 오해||
+|이펙티브 자바||
+
 
 ---
 
@@ -126,7 +136,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분           | 내용                                        |
 |--------------|-------------------------------------------|
-| Java-Spring  | UserDomain, EvaluateDomain 테스트 코드 작성 후 리뷰 |
+| Java-Spring  | [TDD 단위테스트](https://edu.nextstep.camp/s/RFY359FE/lt/ZYdFNIxJ) |
 
 <br>
 
@@ -141,7 +151,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분              | 내용                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------|
-| Spring-Database | [김영한님 강의](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
+| Spring-Database | [QueryDSL Section3. 기본문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
 
 <br>
 
@@ -167,6 +177,13 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |JIWON-JEONG||
 |Diger-King||
 
+<br>
+
+|구분|토의 내용 정리|
+|---|---|
+|객체지향의 사실과 오해||
+|이펙티브 자바||
+
 ---
 
 ### <목요일> - 2주차 [22/07/14 예정]
@@ -188,7 +205,62 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분              | 내용                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------|
-| Spring-Database | [김영한님 강의](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
+| Spring-Database | [QueryDSL Section4. 중급문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
+
+<br>
+
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
+
+---
+
+
+### <화요일> - 3주차 [22/07/19 예정]
+
+| 구분           | 내용                                                                                                                                  |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Theory       |   |
+| 객체지향의 사실과 오해 |  |
+| 이펙티브 자바      | [아이템2. 생성자 매개변수가 많을 땐 빌더 패턴 사용해보기]https://www.youtube.com/watch?v=OwkXMxCqWHM&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=2&t=750s) |
+
+<br>
+
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
+
+<br>
+
+|구분|토의 내용 정리|
+|---|---|
+|객체지향의 사실과 오해||
+|이펙티브 자바||
+
+---
+
+### <목요일> - 3주차 [22/07/14 예정]
+
+| 구분           | 내용                                        |
+|--------------|-------------------------------------------|
+| Java-Spring  | [자동차 경주 - TDD](https://edu.nextstep.camp/s/RFY359FE/lt/z4tZPHN5) |
+
+<br>
+
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
+
+---
+
+### <토요일> - 3주차 [22/07/16 예정]
+
+| 구분              | 내용                                                                                        |
+|-----------------|-------------------------------------------------------------------------------------------|
+| Spring-Database | [QueryDSL Section5. JPA와 QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
 
 <br>
 
