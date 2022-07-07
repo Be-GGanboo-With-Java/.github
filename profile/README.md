@@ -110,7 +110,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 | 구분           | 내용                                                                                                                                  |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | Theory       | Gradle, jar, war                                                                                                                    |
-| 객체지향의 사실과 오해 | 협력하는 객체들의 공동체, 이상한 나라의 객체                                                                                                           |
+| 객체지향의 사실과 오해 | p.20 ~ p.71 협력하는 객체들의 공동체, 이상한 나라의 객체                                                                                                           |
 | 이펙티브 자바      | [아이템1. 생성자 대신 static 팩토리 메서드를 고려해 볼 것](https://www.youtube.com/watch?v=X7RXP6EI-5E&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=1) |
 
 <br>
@@ -167,7 +167,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 | 구분           | 내용                                                                                                                                  |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | Theory       | final, static |
-| 객체지향의 사실과 오해 |  |
+| 객체지향의 사실과 오해 | p.72 ~ p.105 타입과 추상화 |
 | 이펙티브 자바      | [아이템2. 생성자 매개변수가 많을 땐 빌더 패턴 사용해보기]https://www.youtube.com/watch?v=OwkXMxCqWHM&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=2&t=750s) |
 
 <br>
@@ -190,7 +190,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분           | 내용                                        |
 |--------------|-------------------------------------------|
-| Java-Spring  | userAdminDomain, ExamDomain 테스트 코드 작성 후 리뷰 |
+| TDD  | [자동차 경주 - TDD](https://edu.nextstep.camp/s/RFY359FE/lt/z4tZPHN5) |
 
 <br>
 
@@ -245,7 +245,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분           | 내용                                        |
 |--------------|-------------------------------------------|
-| Java-Spring  | [자동차 경주 - TDD](https://edu.nextstep.camp/s/RFY359FE/lt/z4tZPHN5) |
+| TDD  | [좌표 계산기 - 상속, 인터페이스](https://edu.nextstep.camp/s/RFY359FE/lt/4EpJCjCY) |
 
 <br>
 
