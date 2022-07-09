@@ -136,7 +136,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분           | 내용                                        |
 |--------------|-------------------------------------------|
-| TDD  | [TDD 단위테스트](https://edu.nextstep.camp/s/RFY359FE/lt/ZYdFNIxJ) |
+| TDD  | [학습테스트 실습](https://edu.nextstep.camp/s/RFY359FE/ls/p3fMT9lf) |
 
 <br>
 
@@ -190,7 +190,8 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분           | 내용                                        |
 |--------------|-------------------------------------------|
-| TDD  | [자동차 경주 - TDD](https://edu.nextstep.camp/s/RFY359FE/lt/z4tZPHN5) |
+| TDD  | [문자열계산기 - TDD](https://edu.nextstep.camp/s/RFY359FE/ls/ZC2S3bwD) |
+|      | [숫자야구게임 구현 - TDD](https://edu.nextstep.camp/s/RFY359FE/ls/r1XqJCO2) |
 
 <br>
 
