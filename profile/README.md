@@ -16,7 +16,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 <br>
 
-| 화 (Theory)                                              | 목 (Java-Spring)                                                                        | 토 (Spring-DataBase) |
+| 화 (Theory)                                              | 목 (TDD)                                                                        | 토 (QueryDSL) |
 |---------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------|
 | 자바(Spring) 관련 이론,<br><br> 객체지향 사실과 오해, <br><br> 이펙티브 자바 | [박재성님 플레이그라운드 강좌](https://edu.nextstep.camp/c/9WPRB0ys/) 를 듣고 SUWIKI 테스트 코드 작성, 구현문제풀이 | QueryDSL            |
 
@@ -136,7 +136,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분           | 내용                                        |
 |--------------|-------------------------------------------|
-| Java-Spring  | [TDD 단위테스트](https://edu.nextstep.camp/s/RFY359FE/lt/ZYdFNIxJ) |
+| TDD  | [TDD 단위테스트](https://edu.nextstep.camp/s/RFY359FE/lt/ZYdFNIxJ) |
 
 <br>
 
@@ -151,7 +151,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분              | 내용                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------|
-| Spring-Database | [QueryDSL Section3. 기본문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
+| QueryDSL | [QueryDSL Section3. 기본문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
 
 <br>
 
@@ -205,7 +205,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분              | 내용                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------|
-| Spring-Database | [QueryDSL Section4. 중급문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
+| QueryDSL | [QueryDSL Section4. 중급문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
 
 <br>
 
@@ -260,7 +260,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분              | 내용                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------|
-| Spring-Database | [QueryDSL Section5. JPA와 QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
+| QueryDSL | [QueryDSL Section5. JPA와 QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
 
 <br>
 
