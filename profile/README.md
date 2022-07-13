@@ -113,10 +113,9 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 ---
 
-<div align="center">
-  <details>
-  <summary> <h1> 1주차 - (Grdale,Jar,War) + 객체지향 사실과 오해(Ch1 ~ Ch2) + 이펙티브 자바(Item 1), 자바 플레이 그라운드 (1주차), QueryDSL(기본문법) </summary>
-  <div markdown="1">
+<details>
+  <summary> <h3> 1주차 - (Grdale,Jar,War) + 객체지향 사실과 오해(Ch1 ~ Ch2) + 이펙티브 자바(Item 1), 자바 플레이 그라운드 (1주차), QueryDSL(기본문법) </summary>
+  <div markdown="1week">
 
 
 ### <화요일> - 1주차 [22/07/05]
@@ -164,11 +163,10 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 </details>
     
 ---
-    
 
-<div align="center">
-  <h1> 2주차
-</div>
+<details>
+  <summary> <h3> 2주차 - (final, static) + 객체지향 사실과 오해(Ch3) + 이펙티브 자바(Item 2), 자바 플레이 그라운드 (2주차), QueryDSL(중급문법) </summary>
+  <div markdown="2week">
 
 ### <화요일> - 2주차 [22/07/12]
 
@@ -209,12 +207,14 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |-----------------|-------------------------------------------------------------------------------------------|
 | QueryDSL | [QueryDSL Section4. 중급문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 공유 |
 
+  </div>
+</details>
+    
 ---
 
-
-<div align="center">
-  <h1> 3주차
-</div>
+<details>
+  <summary> <h3> 3주차 - (final, static) + 객체지향 사실과 오해(Ch4) + 이펙티브 자바(Item 3), 자바 플레이 그라운드 (3주차), QueryDSL(JPA와 QueryDSL) </summary>
+  <div markdown="3week">
 
 
 ### <화요일> - 3주차 [22/07/19 예정]
