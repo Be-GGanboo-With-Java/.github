@@ -104,9 +104,11 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 ![img](https://www.fssaifoodlicense.com/wp-content/uploads/2016/09/How-to-Renew-Your-FSSAI-Food-License-legalraasta-800x366.jpg)
 
 ---
-<center>
+
+<div align="center">
   # 1주차
-</center>
+</div>
+
 ### <화요일> - 1주차 [22/07/05]
 
 | 구분           | 내용                                                                                                                                  |
@@ -150,9 +152,9 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 ---
 
-<center>
+<div align="center">
   # 2주차
-</center>
+</div>
 
 ### <화요일> - 2주차 [22/07/12]
 
@@ -195,9 +197,10 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 ---
 
-<center>
+
+<div align="center">
   # 3주차
-</center>
+</div>
 
 
 ### <화요일> - 3주차 [22/07/19 예정]
