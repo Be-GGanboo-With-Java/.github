@@ -1,13 +1,3 @@
-# [최종보스 "자바" 레이드] 스터디 진행 방식
-
-- 매주 화요일 23시 구글미팅으로 진행합니다.
-
-- Java 심화 과정에 관하여 각자 발표 자료 준비 후 발표합니다.
-
-- 해당하는 주차에 부여된 문제를 풀어온 후 풀이과정을 설명합니다.
-
----
-
 ## 2022년 07월 이후 변경 및 추가사항 공지
 
 Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
@@ -21,6 +11,10 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 | 자바(Spring) 관련 이론,<br><br> 객체지향 사실과 오해, <br><br> 이펙티브 자바 | [박재성님 플레이그라운드 강좌](https://edu.nextstep.camp/c/9WPRB0ys/) 를 듣고 SUWIKI 테스트 코드 작성, 구현문제풀이 | QueryDSL            |
 
 ---
+
+<details>
+  <summary>리뉴얼 이전 내용</summary>
+  <div markdown="Previous">
 
 ### 1주차 [220509 完]
 
@@ -100,6 +94,9 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 <br>
 
 ---
+    
+  </div>
+</details>
 
 ![img](https://www.fssaifoodlicense.com/wp-content/uploads/2016/09/How-to-Renew-Your-FSSAI-Food-License-legalraasta-800x366.jpg)
 
