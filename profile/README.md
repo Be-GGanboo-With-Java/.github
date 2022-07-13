@@ -106,7 +106,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 ---
 
 <div align="center">
-  # 1주차
+  <h1> 1주차
 </div>
 
 ### <화요일> - 1주차 [22/07/05]
@@ -153,7 +153,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 ---
 
 <div align="center">
-  # 2주차
+  <h1> 2주차
 </div>
 
 ### <화요일> - 2주차 [22/07/12]
@@ -199,7 +199,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 
 <div align="center">
-  # 3주차
+  <h1> 3주차
 </div>
 
 
