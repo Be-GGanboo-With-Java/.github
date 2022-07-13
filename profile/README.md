@@ -13,7 +13,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 ---
 
 <details>
-  <summary>리뉴얼 이전 내용</summary>
+  <summary> <h1> 리뉴얼 이전 내용</summary>
   <div markdown="Previous">
 
 ### 1주차 [220509 完]
