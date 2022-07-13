@@ -104,8 +104,10 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 ![img](https://www.fssaifoodlicense.com/wp-content/uploads/2016/09/How-to-Renew-Your-FSSAI-Food-License-legalraasta-800x366.jpg)
 
 ---
-
-### <화요일> - 1주차 [22/07/05 예정]
+<center>
+  # 1주차
+</center>
+### <화요일> - 1주차 [22/07/05]
 
 | 구분           | 내용                                                                                                                                  |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -132,37 +134,27 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 ---
 
-### <목요일> - 1주차 [22/07/07 예정]
+### <목요일> - 1주차 [22/07/07]
 
 | 구분           | 내용                                        |
 |--------------|-------------------------------------------|
 | TDD  | [학습테스트 실습](https://edu.nextstep.camp/s/RFY359FE/ls/p3fMT9lf) |
 
-<br>
-
-|발표자|발표자료 레포지토리 링크|
-|---|---|
-|JIWON-JEONG||
-|Diger-King||
-
 ---
 
-### <토요일> - 1주차 [22/07/09 예정]
+### <토요일> - 1주차 [22/07/09]
 
 | 구분              | 내용                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------|
-| QueryDSL | [QueryDSL Section3. 기본문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
-
-<br>
-
-|발표자|발표자료 레포지토리 링크|
-|---|---|
-|JIWON-JEONG||
-|Diger-King||
+| QueryDSL | [QueryDSL Section3. 기본문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 공유 |
 
 ---
 
-### <화요일> - 2주차 [22/07/12 예정]
+<center>
+  # 2주차
+</center>
+
+### <화요일> - 2주차 [22/07/12]
 
 | 구분           | 내용                                                                                                                                  |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -175,14 +167,14 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King||
+|Diger-King|https://diger-king.github.io/blog/Java-Static|
 
 <br>
 
 |구분|토의 내용 정리|
 |---|---|
-|객체지향의 사실과 오해||
-|이펙티브 자바||
+|객체지향의 사실과 오해|[토의 내용 정리[(https://github.com/MoveForword-Java/.github/files/9094619/2.pdf)|
+|이펙티브 자바|[토의 내용 정리[(https://github.com/MoveForword-Java/.github/files/9094619/2.pdf)|
 
 ---
 
@@ -193,38 +185,28 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 | TDD  | [문자열계산기 - TDD](https://edu.nextstep.camp/s/RFY359FE/ls/ZC2S3bwD) |
 |      | [숫자야구게임 구현 - TDD](https://edu.nextstep.camp/s/RFY359FE/ls/r1XqJCO2) |
 
-<br>
-
-|발표자|발표자료 레포지토리 링크|
-|---|---|
-|JIWON-JEONG||
-|Diger-King||
-
 ---
 
 ### <토요일> - 2주차 [22/07/16 예정]
 
 | 구분              | 내용                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------|
-| QueryDSL | [QueryDSL Section4. 중급문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
-
-<br>
-
-|발표자|발표자료 레포지토리 링크|
-|---|---|
-|JIWON-JEONG||
-|Diger-King||
+| QueryDSL | [QueryDSL Section4. 중급문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 공유 |
 
 ---
+
+<center>
+  # 3주차
+</center>
 
 
 ### <화요일> - 3주차 [22/07/19 예정]
 
 | 구분           | 내용                                                                                                                                  |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Theory       |   |
+| Theory       |Wrapper, Primitive|
 | 객체지향의 사실과 오해 |  |
-| 이펙티브 자바      | [아이템2. 생성자 매개변수가 많을 땐 빌더 패턴 사용해보기]https://www.youtube.com/watch?v=OwkXMxCqWHM&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=2&t=750s) |
+| 이펙티브 자바      | [아이템3. 싱글톤을 만드는 여러가지 방법 그중에 최선은?](https://www.youtube.com/watch?v=xBVPChbtUhM&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=3) |
 
 <br>
 
@@ -242,33 +224,21 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 ---
 
-### <목요일> - 3주차 [22/07/14 예정]
+### <목요일> - 3주차 [22/07/21]
 
 | 구분           | 내용                                        |
 |--------------|-------------------------------------------|
 | TDD  | [좌표 계산기 - 상속, 인터페이스](https://edu.nextstep.camp/s/RFY359FE/lt/4EpJCjCY) |
 
-<br>
-
-|발표자|발표자료 레포지토리 링크|
-|---|---|
-|JIWON-JEONG||
-|Diger-King||
 
 ---
 
-### <토요일> - 3주차 [22/07/16 예정]
+### <토요일> - 3주차 [22/07/23]
 
 | 구분              | 내용                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------|
 | QueryDSL | [QueryDSL Section5. JPA와 QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
 
-<br>
-
-|발표자|발표자료 레포지토리 링크|
-|---|---|
-|JIWON-JEONG||
-|Diger-King||
 
 ---
 
