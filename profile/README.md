@@ -114,8 +114,10 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 ---
 
 <div align="center">
-  <h1> 1주차
-</div>
+  <details>
+  <summary> <h1> 1주차 - (Grdale,Jar,War) + 객체지향 사실과 오해(Ch1 ~ Ch2) + 이펙티브 자바(Item 1), 자바 플레이 그라운드 (1주차), QueryDSL(기본문법) </summary>
+  <div markdown="1">
+
 
 ### <화요일> - 1주차 [22/07/05]
 
@@ -158,7 +160,11 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |-----------------|-------------------------------------------------------------------------------------------|
 | QueryDSL | [QueryDSL Section3. 기본문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 공유 |
 
+  </div>
+</details>
+    
 ---
+    
 
 <div align="center">
   <h1> 2주차
