@@ -102,6 +102,10 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 ---
 
+[화요일 스터디 주제 참고](https://zero-base.co.kr/event/media_BE_school_roadmap?gclid=CjwKCAjw_b6WBhAQEiwAp4HyICdSC8zRH33mo_X4NFe6AnaObexwFZV3zs42enaaB3gnyih8V2OhoCYeoQAvD_BwE)
+
+---
+
 |주제|발표자료|
 |---|---|
 |객체지향이란?|[발표자-정지원](https://velog.io/@john7645/OOP-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%99%80-PP-%EC%A0%88%EC%B0%A8%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br>[발표자-김도현](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week1/ObjectOrientedProgramming.md)|
@@ -221,7 +225,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 | 구분           | 내용                                                                                                                                  |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Theory       |Wrapper, Primitive|
+| Theory       | Process And Thread - CPU Scheduling - Synchronize And Deadlock |
 | 객체지향의 사실과 오해 | p.106 ~ p.136 타입과 추상화 |
 | 이펙티브 자바      | [아이템3. 싱글톤을 만드는 여러가지 방법 그중에 최선은?](https://www.youtube.com/watch?v=xBVPChbtUhM&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=3) |
 
@@ -268,6 +272,8 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 계층 아키텍쳐
 
 예외처리
+
+Wrapper, Primitive
 
 부동소수점 vs 고정소수점
 
