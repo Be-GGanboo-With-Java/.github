@@ -217,7 +217,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 ---
 
 <details>
-  <summary> <h3> 3주차 - (final, static) + 객체지향 사실과 오해(Ch4) + 이펙티브 자바(Item 3), 자바 플레이 그라운드 (3주차), QueryDSL(JPA와 QueryDSL) </summary>
+  <summary> <h3> 3주차 - Process And Thread - CPU Scheduling - Synchronize And Deadlock + 객체지향 사실과 오해(Ch4) + 이펙티브 자바(Item 3), 자바 플레이 그라운드 (3주차), QueryDSL(JPA와 QueryDSL) </summary>
   <div markdown="3week">
 
 
