@@ -211,6 +211,11 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |-----------------|-------------------------------------------------------------------------------------------|
 | QueryDSL | [QueryDSL Section4. 중급문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 공유 |
 
+
+|구분|토의 내용 정리|
+|---|---|
+|QueryDSL 중급문법|[토의 내용]()|
+
   </div>
 </details>
     
@@ -276,6 +281,8 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 Wrapper, Primitive
 
 부동소수점 vs 고정소수점
+
+JDBC Hibernate JPA
 
 ## 추천 서적
 
