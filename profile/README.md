@@ -269,6 +269,54 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 ---
 
 
+<details>
+  <summary> <h3> 4주차 - JDBC, Hibernate, ORM + 객체지향 사실과 오해(Ch5) + 이펙티브 자바(Item 4), 자바 플레이 그라운드 (4주차), QueryDSL(Spring Data JPA 와 QueryDSL) </summary>
+  <div markdown="3week">
+
+
+### <화요일> - 4주차 [22/07/26]
+
+| 구분           | 내용                                                                                                                                  |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Theory       | JDBC, Hibernate, ORM |
+| 객체지향의 사실과 오해 | p.106 ~ p.136 타입과 추상화 |
+| 이펙티브 자바      | [아이템4. 인스턴스화를 막고 싶으면, private](https://www.youtube.com/watch?v=A-t1T3_m15M&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=4) |
+
+<br>
+
+|발표자|발표자료 레포지토리 링크|
+|---|---|
+|JIWON-JEONG||
+|Diger-King||
+
+<br>
+
+|구분|토의 내용 정리|
+|---|---|
+|객체지향의 사실과 오해||
+|이펙티브 자바||
+
+---
+
+### <목요일> - 3주차 [22/07/21]
+
+| 구분           | 내용                                        |
+|--------------|-------------------------------------------|
+| TDD  | [좌표 계산기 - 상속, 인터페이스](https://edu.nextstep.camp/s/RFY359FE/lt/4EpJCjCY) |
+
+
+---
+
+### <토요일> - 3주차 [22/07/30] - QueryDSL 종료
+
+| 구분              | 내용                                                                                        |
+|-----------------|-------------------------------------------------------------------------------------------|
+| QueryDSL | [QueryDSL Section6, 7. Spring Data JPA와 QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
+
+
+---
+
+
 
 ---
 
@@ -280,9 +328,11 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 Wrapper, Primitive
 
-부동소수점 vs 고정소수점
+Generic
 
-JDBC Hibernate JPA
+Thread
+
+부동소수점 vs 고정소수점
 
 ## 추천 서적
 
