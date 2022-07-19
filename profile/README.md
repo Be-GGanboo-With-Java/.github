@@ -239,7 +239,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King||
+|Diger-King|[이펙티브 자바 Item 3](https://diger-king.github.io/blog/EffectiveJava-item3) <br> [객체지향의 사실과 오해 CH4](https://diger-king.github.io/blog/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-4)|
 
 <br>
 
