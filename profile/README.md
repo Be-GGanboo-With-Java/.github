@@ -245,8 +245,9 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 |구분|토의 내용 정리|
 |---|---|
-|객체지향의 사실과 오해||
-|이펙티브 자바||
+|객체지향의 사실과 오해|[토의 내용 정리](https://github.com/MoveForword-Java/.github/files/9179616/-07.19.pdf)|
+|이펙티브 자바|[토의 내용 정리](https://github.com/MoveForword-Java/.github/files/9179623/07.24.pdf)|
+|Theory|[토의 내용 정리 - Process vs Thread, CPU Scheduling, Deadlock, Synchronize](https://github.com/MoveForword-Java/.github/files/9179623/07.24.pdf)|
 
 ---
 
