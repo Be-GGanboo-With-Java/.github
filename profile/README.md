@@ -137,16 +137,6 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |JIWON-JEONG||
 |Diger-King|https://diger-king.github.io/blog/JARvsWAR|
 
-
-<br>
-
-
-|구분|토의 내용 정리|
-|---|---|
-|객체지향의 사실과 오해||
-|이펙티브 자바||
-
-
 ---
 
 ### <목요일> - 1주차 [22/07/07]
@@ -191,8 +181,8 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 |구분|토의 내용 정리|
 |---|---|
-|객체지향의 사실과 오해|[토의 내용 정리](https://github.com/MoveForword-Java/.github/files/9094619/2.pdf)|
-|이펙티브 자바|[토의 내용 정리](https://github.com/MoveForword-Java/.github/files/9094619/2.pdf)|
+|객체지향의 사실과 오해|[토의 내용 정리 - 객체지향 사실과 오해 - CH3](https://github.com/MoveForword-Java/.github/files/9094619/2.pdf)|
+|이펙티브 자바|[토의 내용 정리 - 이펙티브 자바 - 생성자가 많을땐 빌더 패턴 사용](https://github.com/MoveForword-Java/.github/files/9094619/2.pdf)|
 
 ---
 
@@ -245,8 +235,8 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 |구분|토의 내용 정리|
 |---|---|
-|객체지향의 사실과 오해|[토의 내용 정리](https://github.com/MoveForword-Java/.github/files/9179616/-07.19.pdf)|
-|이펙티브 자바|[토의 내용 정리](https://github.com/MoveForword-Java/.github/files/9179623/07.24.pdf)|
+|객체지향의 사실과 오해|[토의 내용 정리 - 객체지향 사실과 오해 - CH4](https://github.com/MoveForword-Java/.github/files/9179616/-07.19.pdf)|
+|이펙티브 자바|[토의 내용 정리 - 이펙티브 자바 - 싱글톤을 만드는 방법 그중에 최선은?](https://github.com/MoveForword-Java/.github/files/9179623/07.24.pdf)|
 |Theory|[토의 내용 정리 - Process vs Thread, CPU Scheduling, Deadlock, Synchronize](https://github.com/MoveForword-Java/.github/files/9179623/07.24.pdf)|
 
 ---
