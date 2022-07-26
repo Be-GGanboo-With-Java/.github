@@ -281,7 +281,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King|[JDBC](https://diger-king.github.io/blog/JDBC)[Hibernate] <br> (https://diger-king.github.io/blog/Hibernate)[ORM] <br> (https://diger-king.github.io/blog/ORM)|
+|Diger-King|[JDBC](https://diger-king.github.io/blog/JDBC) <br> [Hibernate](https://diger-king.github.io/blog/Hibernate) <br> [ORM](https://diger-king.github.io/blog/ORM)|
 
 <br>
 
