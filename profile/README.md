@@ -312,9 +312,8 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 ---
 
-
 <details>
-  <summary> <h3> 5주차 - summary>
+  <summary> <h3> 5주차 - 객체지향 사실과 오해(Ch6) + 이펙티브 자바 (Item 5), DevOps 기초</summary>
   <div markdown="5week">
 
 
@@ -351,7 +350,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 ---
 
-### <토요일> - 6주차 [22/08/06] - DevOps 기초
+### <토요일> - 5주차 [22/08/06] - DevOps 기초
 
 | 구분              | 내용                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------|
@@ -363,7 +362,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 ---
 
 <details>
-  <summary> <h3> 6주차 - summary>
+  <summary> <h3> 6주차  - 객체지향 사실과 오해(Ch7) + 이펙티브 자바 (Item 6), Docker 기초</summary>
   <div markdown="6week">
 
 
@@ -412,7 +411,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 ---
 
 <details>
-  <summary> <h3> 7주차 - summary>
+  <summary> <h3> 7주차 - 이펙티브 자바 (Item 6), k8s 기초 </summary>
   <div markdown="7week">
 
 
