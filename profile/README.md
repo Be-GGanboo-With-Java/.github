@@ -311,6 +311,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |구분|과제 토의|
 |---|---|
 |객체지향 사실과 오해 추가 토의 - TDD 문자열 계산기 리팩터링|[객체지향 사실과 오해 추가 토의 - TDD 문자열 계산기 리팩터링](https://github.com/MoveForword-Java/.github/files/9211909/07-29.pdf)|
+|이펙티브 자바|[Item-4 인스턴스화를 막으려면, Priavte생성자를 만들거나 Abstract 클래스로 만들기 SUWIKI 적용](https://user-images.githubusercontent.com/80501465/181576437-e9d42432-8a0d-4a06-af18-36e4fbb65dd9.png)|
 
 ---
 
