@@ -306,6 +306,11 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |--------------|-------------------------------------------|
 | TDD  | [좌표 계산기 - 상속, 인터페이스](https://edu.nextstep.camp/s/RFY359FE/lt/4EpJCjCY) |
 
+<br>
+
+|구분|과제 토의|
+|---|---|
+|객체지향 사실과 오해 추가 토의 - TDD 문자열 계산기 리팩터링|[객체지향 사실과 오해 추가 토의 - TDD 문자열 계산기 리팩터링](https://github.com/MoveForword-Java/.github/files/9211909/07-29.pdf)|
 
 ---
 
