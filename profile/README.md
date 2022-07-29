@@ -175,7 +175,7 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King|https://diger-king.github.io/blog/Java-Static|
+|Diger-King|https://diger-king.github.io/blog/JavaDeep-Java-Static|
 
 <br>
 
