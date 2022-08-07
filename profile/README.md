@@ -147,30 +147,24 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 | Effective Java Item6. 불필요한 객체 생성을 피하라                 | [불필요한 객체 생성을 피하라]()                                                                                   |
 
 
-
-
 ---
 
 <details>
-<summary> <h3> 1주차 <br><br>
-Theory : gradle, jar, war <br><br>
-객체지향 사실과 오해 : Ch 1, 2 - 협력하는 객체들의 공동체, 이상한 나라의 객체 <br><br>
-이펙티브 자바 : Item 1 - 생성자 대신 static 팩토리 메서드를 고려해 볼 것 <br><br>
-TDD : 학습테스트 실습 <br><br>
-QueryDSL : QueryDSL Section3. 기본문법
-</summary>
+  <summary> <h2> 1주차 <br><br> </h2></summary>
   <div markdown="1week">
 
 
 ### <화요일> - 1주차 [22/07/05]
 
-| 구분           | 내용                                                                                                                                  |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Theory       | Gradle, jar, war                                                                                                                    |
-| 객체지향의 사실과 오해 | p.20 ~ p.71 협력하는 객체들의 공동체, 이상한 나라의 객체                                                                                                           |
-| 이펙티브 자바      | [아이템1. 생성자 대신 static 팩토리 메서드를 고려해 볼 것](https://www.youtube.com/watch?v=X7RXP6EI-5E&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=1) |
+| 요일         | 주제                                                            |
+|------------|---------------------------------------------------------------|
+| 220705 화요일 | Gradle, jar, war <br> 객체지향의 사실과 오해(CH1,2) <br>  이펙티브 자바 Item1 |
+| 220707 목요일 | TDD - 학습테스트 실습                                                |
+| 220709 토요일 | QueryDSL Section3. 기본문법                                       |
 
 <br>
+
+### 화요일 스터디 정리본
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
@@ -179,34 +173,20 @@ QueryDSL : QueryDSL Section3. 기본문법
 
 ---
 
-### <목요일> - 1주차 [22/07/07]
-
-| 구분           | 내용                                        |
-|--------------|-------------------------------------------|
-| TDD  | [학습테스트 실습](https://edu.nextstep.camp/s/RFY359FE/ls/p3fMT9lf) |
-
----
-
-### <토요일> - 1주차 [22/07/09]
-
-| 구분              | 내용                                                                                        |
-|-----------------|-------------------------------------------------------------------------------------------|
-| QueryDSL | [QueryDSL Section3. 기본문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 공유 |
-
   </div>
 </details>
     
 ---
 
 <details>
-    <summary> <h3> 2주차 <br><br>
-Theory : final, static <br><br>
-객체지향 사실과 오해 : Ch3 - 타입과 추상화 <br><br>
-이펙티브 자바 : Item 2 - 생성자 매개변수가 많을 땐 빌더 패턴 사용해보기 <br><br>
-TDD : 문자열계산기 - TDD, 숫자야구게임 구현 - TDD<br><br>
-QueryDSL : QueryDSL Section4. 중급문법
-</summary>
+  <summary> <h2> 2주차 <br><br> </h2></summary>
   <div markdown="2week">
+
+| 요일         | 주제                                                       |
+|------------|----------------------------------------------------------|
+| 220712 화요일 | final, static <br> 객체지향의 사실과 오해(CH3) <br>  이펙티브 자바 Item2 |
+| 220714 목요일 | TDD - 문자열계산기, 숫자야구게임 구현                                  |
+| 220716 토요일 | QueryDSL Section4. 중급문법                         |
 
 ### <화요일> - 2주차 [22/07/12]
 
@@ -217,6 +197,8 @@ QueryDSL : QueryDSL Section4. 중급문법
 | 이펙티브 자바      | [아이템2. 생성자 매개변수가 많을 땐 빌더 패턴 사용해보기](https://www.youtube.com/watch?v=OwkXMxCqWHM&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=2&t=750s) |
 
 <br>
+
+## 화요일 스터디 정리본
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
@@ -230,27 +212,6 @@ QueryDSL : QueryDSL Section4. 중급문법
 |객체지향의 사실과 오해|[토의 내용 정리 - 객체지향 사실과 오해 - CH3](https://github.com/MoveForword-Java/.github/files/9094619/2.pdf)|
 |이펙티브 자바|[토의 내용 정리 - 이펙티브 자바 - 생성자가 많을땐 빌더 패턴 사용](https://github.com/MoveForword-Java/.github/files/9094619/2.pdf)|
 
----
-
-### <목요일> - 2주차 [22/07/14]
-
-| 구분           | 내용                                        |
-|--------------|-------------------------------------------|
-| TDD  | [문자열계산기 - TDD](https://edu.nextstep.camp/s/RFY359FE/ls/ZC2S3bwD) |
-|      | [숫자야구게임 구현 - TDD](https://edu.nextstep.camp/s/RFY359FE/ls/r1XqJCO2) |
-
----
-
-### <토요일> - 2주차 [22/07/16]
-
-| 구분              | 내용                                                                                        |
-|-----------------|-------------------------------------------------------------------------------------------|
-| QueryDSL | [QueryDSL Section4. 중급문법](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 공유 |
-
-
-|구분|토의 내용 정리|
-|---|---|
-|QueryDSL 중급문법|[토의 내용]()|
 
   </div>
 </details>
@@ -258,15 +219,14 @@ QueryDSL : QueryDSL Section4. 중급문법
 ---
 
 <details>
-    <summary> <h3> 3주차 <br><br>
-Theory : Process And Thread - CPU Scheduling - Synchronize And Deadlock <br><br>
-객체지향 사실과 오해 : Ch4 - 역할, 책임, 협력 <br><br>
-이펙티브 자바 : Item 3 - private 생성자나 열거 타입으로 싱글턴임을 보증하라 <br><br>
-TDD : 좌표계산기 - 상속, 인터페이스 <br><br>
-QueryDSL : Section5. JPA와 QueryDSL
-</summary>
+  <summary> <h2> 3주차 <br><br> </h2></summary>
   <div markdown="3week">
 
+| 요일         | 주제                                                                       |
+|------------|--------------------------------------------------------------------------|
+| 220719 화요일 | 프로세스와 스레드, CPU 스케줄링, 동기화-교착상태 <br> 객체지향의 사실과 오해(CH4) <br>  이펙티브 자바 Item3 |
+| 220721 목요일 | 좌표 계산기 - 상속, 인터페이스                                                       |
+| 220723 토요일 | QueryDSL Section5. JPA와 QueryDSL                                         |
 
 ### <화요일> - 3주차 [22/07/19]
 
@@ -278,6 +238,8 @@ QueryDSL : Section5. JPA와 QueryDSL
 
 <br>
 
+## 화요일 스터디 정리본
+
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
@@ -287,52 +249,32 @@ QueryDSL : Section5. JPA와 QueryDSL
 
 |구분|토의 내용 정리|
 |---|---|
+|Theory|[토의 내용 정리 - Process vs Thread, CPU Scheduling, Deadlock, Synchronize](https://github.com/MoveForword-Java/.github/files/9179623/07.24.pdf)|
 |객체지향의 사실과 오해|[토의 내용 정리 - 객체지향 사실과 오해 - CH4](https://github.com/MoveForword-Java/.github/files/9179616/-07.19.pdf)|
 |이펙티브 자바|[토의 내용 정리 - 이펙티브 자바 - 싱글톤을 만드는 방법 그중에 최선은?](https://github.com/MoveForword-Java/.github/files/9179623/07.24.pdf)|
-|Theory|[토의 내용 정리 - Process vs Thread, CPU Scheduling, Deadlock, Synchronize](https://github.com/MoveForword-Java/.github/files/9179623/07.24.pdf)|
-
----
-
-### <목요일> - 3주차 [22/07/21]
-
-| 구분           | 내용                                        |
-|--------------|-------------------------------------------|
-| TDD  | [좌표 계산기 - 상속, 인터페이스](https://edu.nextstep.camp/s/RFY359FE/lt/4EpJCjCY) |
 
 
 ---
 
-### <토요일> - 3주차 [22/07/23]
-
-| 구분              | 내용                                                                                        |
-|-----------------|-------------------------------------------------------------------------------------------|
-| QueryDSL | [QueryDSL Section5. JPA와 QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
-  
-  
 </div>
 </details>
 
 ---
 
 <details>
-    <summary> <h3> 4주차 - QueryDSL 종료 <br><br>
-객체지향 사실과 오해 (Ch5 - 책임과 메시지) <br><br>
-이펙티브 자바 (Item 4 - 인스턴스화를 막고싶으면 private 생성자를 사용하라) <br><br>
-TDD - 좌표계산기 <br><br>
-QueryDSL Section 6,7. Spring Data JPA와 QueryDSL <br>
-</summary>
+  <summary> <h2> 4주차 <br><br> </h2></summary>
   <div markdown="4week">
 
-
-### <화요일> - 4주차 [22/07/26]
-
-| 구분           | 내용                                                                                                                                  |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Theory       | JDBC, Hibernate, ORM |
-| 객체지향의 사실과 오해 | p.138 ~ p.176 책임과 메시지 |
-| 이펙티브 자바      | [아이템4. 인스턴스화를 막고 싶으면, private](https://www.youtube.com/watch?v=A-t1T3_m15M&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=4) |
+| 요일         | 주제                                                              |
+|------------|-----------------------------------------------------------------|
+| 220726 화요일 | JDBC, Hibernate, ORM <br> 객체지향의 사실과 오해(CH5) <br>  이펙티브 자바 Item4 |
+| 220728 목요일 | 좌표 계산기 - 상속, 인터페이스                                              |
+| 220730 토요일 | QueryDSL Section6, 7. Spring Data JPA와 QueryDSL                 |
 
 <br>
+
+
+## 화요일 스터디 정리본
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
@@ -346,36 +288,21 @@ QueryDSL Section 6,7. Spring Data JPA와 QueryDSL <br>
 |객체지향의 사실과 오해|[토의 내용 정리](https://github.com/MoveForword-Java/.github/files/9191532/07.26.pdf)|
 |이펙티브 자바|[토의 내용 정리](https://github.com/MoveForword-Java/.github/files/9191532/07.26.pdf)|
 
-<br>
-
-|구분|과제 토의|
-|---|---|
-|JIWON-JEONG|[객체지향 사실과 오해 키워드 다이어그램 정리](https://github.com/MoveForword-Java/.github/files/9209805/usecaseDiagram.pdf)|
-|Diger-King|[객체지향 사실과 오해 키워드 다이어그램 정리]|
-
-
----
-
-### <목요일> - 4주차 [22/07/28]
-
-| 구분           | 내용                                        |
-|--------------|-------------------------------------------|
-| TDD  | [좌표 계산기 - 상속, 인터페이스](https://edu.nextstep.camp/s/RFY359FE/lt/4EpJCjCY) |
-
-<br>
-
 |구분|과제 토의|
 |---|---|
 |객체지향 사실과 오해 추가 토의 - TDD 문자열 계산기 리팩터링|[객체지향 사실과 오해 추가 토의 - TDD 문자열 계산기 리팩터링](https://github.com/MoveForword-Java/.github/files/9211909/07-29.pdf)|
 |이펙티브 자바|[Item-4 인스턴스화를 막으려면, Priavte생성자를 만들거나 Abstract 클래스로 만들기 SUWIKI 적용](https://user-images.githubusercontent.com/80501465/181576437-e9d42432-8a0d-4a06-af18-36e4fbb65dd9.png)|
 
+
+<br>
+
+|구분| 과제 토의                                                                                                    |
+|---|----------------------------------------------------------------------------------------------------------|
+|JIWON-JEONG| [객체지향 사실과 오해 키워드 다이어그램 정리](https://github.com/MoveForword-Java/.github/files/9209805/usecaseDiagram.pdf) |
+|Diger-King| [객체지향 사실과 오해 키워드 다이어그램 정리](https://user-images.githubusercontent.com/60564431/180943456-6678618a-92ef-4edd-aa7b-5f0499fd9c01.jpg)                                                                             |
+
+
 ---
-
-### <토요일> - 4주차 [22/07/30]
-
-| 구분              | 내용                                                                                        |
-|-----------------|-------------------------------------------------------------------------------------------|
-| QueryDSL | [QueryDSL Section6, 7. Spring Data JPA와 QueryDSL](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) <br> 수강 후 학습 내용 발표 |
 
   </div>
 </details>
@@ -383,11 +310,14 @@ QueryDSL Section 6,7. Spring Data JPA와 QueryDSL <br>
 ---
 
 <details>
-    <summary> <h3> 5주차 <br><br>
-객체지향 사실과 오해 (Ch6 - 객체 지도) <br><br>
-이펙티브 자바 (Item 5 - 자원을 직접 명시하지 말고, 의존 객체 주입을 사용하라) </summary>
+  <summary> <h2> 5주차 <br><br> </h2></summary>
   <div markdown="5week">
 
+| 요일         | 주제                                    |
+|------------|---------------------------------------|
+| 220802 화요일 | 객체지향의 사실과 오해(CH6) <br>  이펙티브 자바 Item5 |
+| 220804 목요일 | 수강하던 강의가 끝남으로써 스터디 방향 재지정             |
+| 220806 토요일 | 수강하던 강의가 끝남으로써 스터디 방향 재지정             |
 
 ### <화요일> - 5주차 [22/08/02]
 
@@ -397,6 +327,9 @@ QueryDSL Section 6,7. Spring Data JPA와 QueryDSL <br>
 | 이펙티브 자바|[아이템5. 의존성 주입](https://www.youtube.com/watch?v=A-t1T3_m15M&list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ&index=4)|
 
 <br>
+
+## 화요일 스터디 정리본
+
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
@@ -410,125 +343,39 @@ QueryDSL Section 6,7. Spring Data JPA와 QueryDSL <br>
 |객체지향의 사실과 오해||
 |이펙티브 자바|https://github.com/MoveForword-Java/.github/files/9274701/08.05.pdf|
 
----
-
-### <목요일> - 5주차 [22/08/04]
-
-| 구분           | 내용                                        |
-|--------------|-------------------------------------------|
-|||
-
-
----
-
-### <토요일> - 5주차 [22/08/06] - DevOps 기초
-
-| 구분              | 내용                                                                                        |
-|-----------------|-------------------------------------------------------------------------------------------|
-| DevOps 기초 | [DevOps 기초](https://www.youtube.com/playlist?list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG)|
-
   </div>
 </details>
     
 ---
 
 <details>
-  <summary> <h3> 6주차 <br><br>
-Stream/Lambda <br><br>
-객체지향 사실과 오해 (Ch7 - 객체 지도) <br><br>
-이펙티브 자바 (Item 6 - 불필요한 객체 생성을 피하라) </summary>
+  <summary> <h2> 6주차 - 객체지향의 사실과 오해 종료<br><br> </h2></summary>
   <div markdown="6week">
 
-
-### <화요일> - 6주차 [22/08/09]
-
-| 구분           | 내용                                                                                                                                  |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Theory       | Stream/Lambda(Java 8) |
-| 객체지향의 사실과 오해(종료) |p.207 ~ p.250|
-| 이펙티브 자바 ||
-
 <br>
+
+| 요일         | 주제                                                               |
+|------------|------------------------------------------------------------------|
+| 220809 화요일 | Stream/Lambda(Java 8) <br> 객체지향의 사실과 오해(CH7) <br>  이펙티브 자바 Item6 |
+|            |                                                                  |
+|            |                                                                  |
+
+## 화요일 스터디 정리본
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
 |Diger-King||
 
-<br>
 
 |구분|토의 내용 정리|
 |---|---|
 |객체지향의 사실과 오해||
 |이펙티브 자바| |
 
----
-
-### <목요일> - 6주차 [22/08/11]
-
-| 구분           | 내용                                        |
-|--------------|-------------------------------------------|
-|||
-
-
----
-
-### <토요일> - 6주차 [22/08/13] - Docker
-
-| 구분              | 내용                                                                                        |
-|-----------------|-------------------------------------------------------------------------------------------|
-| Docker | [Docker](https://www.youtube.com/watch?v=3c-iBn73dDE)|
-
-  </div>
+</div>
 </details>
-    
----
 
-<details>
-  <summary> <h3> 7주차 - 이펙티브 자바 (Item 6), k8s 기초 </summary>
-  <div markdown="7week">
-
-
-### <화요일> - 7주차 [22/08/16]
-
-| 구분           | 내용                                                                                                                                  |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Theory       |  |
-| 이펙티브 자바 ||
-
-<br>
-
-|발표자|발표자료 레포지토리 링크|
-|---|---|
-|JIWON-JEONG||
-|Diger-King||
-
-<br>
-
-|구분|토의 내용 정리|
-|---|---|
-|이펙티브 자바| |
-
----
-
-### <목요일> - 7주차 [22/08/18]
-
-| 구분           | 내용                                        |
-|--------------|-------------------------------------------|
-|||
-
-
----
-
-### <토요일> - 7주차 [22/08/20] - k8s
-
-| 구분              | 내용                                                                                        |
-|-----------------|-------------------------------------------------------------------------------------------|
-| k8s | [k8s](https://www.youtube.com/watch?v=X48VuDVv0do)|
-
-  </div>
-</details>
-    
 ---
 
 
