@@ -18,9 +18,9 @@ Java 뿐만 아니라 Java 를 활용한 FrameWork 까지 주제 범위 확장
 
 QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연장
 
-| 화 (Theory) | ??? (Java-Implementaion) |
+| 화 (Theory) | 토 (Java-Implementaion) |
 |------------|--------------------------|
-| 자바(Spring) 관련 이론,<br><br> 객체지향 사실과 오해, <br><br> 이펙티브 자바 |                          |
+| 자바(Spring) 관련 이론,<br><br> 객체지향 사실과 오해, <br><br> 이펙티브 자바 | Java를 활용한 특정 주제 구현 |
 
 ---
 
