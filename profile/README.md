@@ -315,11 +315,11 @@ QueryDSL : Section5. JPA와 QueryDSL
 ---
 
 <details>
-    <summary> <h3> 4주차 <br><br>
+    <summary> <h3> 4주차 - QueryDSL 종료 <br><br>
 객체지향 사실과 오해 (Ch5 - 책임과 메시지) <br><br>
 이펙티브 자바 (Item 4 - 인스턴스화를 막고싶으면 private 생성자를 사용하라) <br><br>
 TDD - 좌표계산기 <br><br>
-QueryDSL Section 6,7. Spring Data JPA와 QueryDSL
+QueryDSL Section 6,7. Spring Data JPA와 QueryDSL <br>
 </summary>
   <div markdown="4week">
 
@@ -371,7 +371,7 @@ QueryDSL Section 6,7. Spring Data JPA와 QueryDSL
 
 ---
 
-### <토요일> - 4주차 [22/07/30] - QueryDSL 종료
+### <토요일> - 4주차 [22/07/30]
 
 | 구분              | 내용                                                                                        |
 |-----------------|-------------------------------------------------------------------------------------------|
