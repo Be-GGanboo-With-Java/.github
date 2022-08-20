@@ -124,13 +124,14 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 객체지향이란?                                                 | [발표자-정지원](https://velog.io/@john7645/OOP-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%99%80-PP-%EC%A0%88%EC%B0%A8%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br>[발표자-김도현](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week1/ObjectOrientedProgramming.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 객체 생성과 소멸 시 동작 과정, Iterator vs ForEach, Null vs IsEmpty | [발표자-정지원-객체생성/소멸](https://velog.io/@john7645/%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%86%8C%EB%A9%B8-%EC%8B%9C-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-%EA%B3%BC%EC%A0%95) <br> [발표자-정지원-Null vs IsEmpty](https://velog.io/@john7645/isEmpty-%EC%99%80-null) <br> [발표자-정지원-Iterator vs ForEach](https://github.com/JIWEON-JEONG/Study/blob/master/src/com/company/iter_foreach/CompareIterForeach.java) <br> [발표자-김도현-객체생성/소멸](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/CreateAndPerishObject.md) <br> [발표자-김도현-Iterator vs ForEach](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/IteratorVsForeach.md) <br> [발표자-김도현-Null vs IsEmpty](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/NullVsEmpty.md) |
-| JVM, GC                                                 | [발표자-정지원-JVM](https://velog.io/@john7645/JVM-Specification-%ED%83%84%EC%83%9D%EB%B0%B0%EA%B2%BD) <br> [발표자-정지원-GC](https://velog.io/@john7645/GC) <br> [발표자-김도현-JVM](https://diger-king.github.io/blog/JavaDeep-JVM) <br> [발표자-김도현-GC](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week3/GarbageCollector.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| JVM, GC                                                 | [발표자-정지원-JVM](https://velog.io/@john7645/JVM-Specification-%ED%83%84%EC%83%9D%EB%B0%B0%EA%B2%BD) <br> [발표자-정지원-GC](https://velog.io/@john7645/GC) <br> [발표자-김도현-JVM](https://diger-king.github.io/blog/JavaDeep-JVM) <br> [발표자-김도현-GC](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week3/GarbageCollector.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | JIT 컴파일러 + Java Build                                   | [발표자-정지원](https://velog.io/@john7645/JIT-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-IBM-doc) <br> [발표자-김도현](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week4/JIT-Compiler.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Collection                                              | [발표자-정지원](https://github.com/JIWEON-JEONG/Study/tree/master/src/com/company/collection)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Gralde, War, War                                        | [발표자-김도현](https://diger-king.github.io/blog/JARvsWAR)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | final, static                                           | [발표자-김도현](https://diger-king.github.io/blog/JavaDeep-Java-Static)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | JDBC, Hibernate, ORM                                    | [발표자-김도현-JDBC](https://diger-king.github.io/blog/JDBC) <br> [발표자-김도현-Hibernate](https://diger-king.github.io/blog/Hibernate) <br> [발표자-김도현-ORM](https://diger-king.github.io/blog/ORM)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-
+| Stream/Lambda                                           | [발표자-김도현-Stream/Lambda](https://diger-king.github.io/blog/Java8StreamLambda)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Servlet                                                 | [발표자-김도현-Servlet](https://diger-king.github.io/blog/WhatIsServlet) <br> [발표자-김도현-Filter/DispatcherServlet/Interceptor](https://diger-king.github.io/blog/Filter-DispatchServlet-Interceptor)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ## 객체지향의 사실과 오해, Effective Java 토의 내용 정리본
 | 구분                                                    | 정리 자료                                                                                                 |
@@ -140,17 +141,20 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 | 객체지향의 사실과 오해 Chapter05. 책임과 메시지                       | [책임과 메시지](https://github.com/MoveForword-Java/.github/files/9179616/-07.19.pdf)                       |
 | 객체지향의 사실과 오해 Chapter06. 객체 지도                         | [객체 지도]()                                                                                             |
 | 객체지향의 사실과 오해 Chapter07. 함꼐 모으기                        | [함께 모으기]()                                                                                            |
+| 객체지향의 사실과 오해 부록                                       | [부록]()                                                                                                |
 | Effective Java Item2. 생성자가 많을때는 빌더 패턴 사용하기            | [생성자가 많을때는 빌더 패턴 사용하기](https://github.com/MoveForword-Java/.github/files/9094619/2.pdf)               |
 | Effective Java Item3. private 생성자나, 열거 타입으로 싱글턴을 보증하라 | [private 생성자나 열거 타입을 싱글턴임을 보증하라](https://github.com/MoveForword-Java/.github/files/9179623/07.24.pdf) |
 | Effective Java Item4. 인스턴스화를 막으려면 priavte 생성자를 사용하기   | [인스턴스화를 막으려면 priavte 생성자를 사용하기](https://github.com/MoveForword-Java/.github/files/9191532/07.26.pdf)  |
 | Effective Java Item5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라   | [자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/MoveForword-Java/.github/files/9274701/08.05.pdf)  |
 | Effective Java Item6. 불필요한 객체 생성을 피하라                 | [불필요한 객체 생성을 피하라]()                                                                                   |
+| Effective Java Item7. 다 쓴 객체 참조를 해제하라                 | [다 쓴 객체 참조를 해제하라]()                                                                                   |
+| Effective Java Item8. finalizer와 cleaner 사용을 피하라      | [finalizer와 cleaner 사용을 피하라]()                                                                                   |
 
 
 ---
 
 <details>
-  <summary> <h2> 1주차 <br><br> </h2></summary>
+  <summary> <h2> 1주차 220705 ~ 220709 <br><br> </h2></summary>
   <div markdown="1week">
 
 
@@ -179,7 +183,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 2주차 <br><br> </h2></summary>
+  <summary> <h2> 2주차 220712 ~ 220716<br><br> </h2></summary>
   <div markdown="2week">
 
 | 요일         | 주제                                                       |
@@ -211,7 +215,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 3주차 <br><br> </h2></summary>
+  <summary> <h2> 3주차 220719 ~ 220723 <br><br> </h2></summary>
   <div markdown="3week">
 
 | 요일         | 주제                                                                       |
@@ -246,7 +250,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 4주차 <br><br> </h2></summary>
+  <summary> <h2> 4주차 220726 ~ 220730<br><br> </h2></summary>
   <div markdown="4week">
 
 | 요일         | 주제                                                              |
@@ -294,7 +298,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 5주차 <br><br> </h2></summary>
+  <summary> <h2> 5주차 220802 ~ 220806<br><br> </h2></summary>
   <div markdown="5week">
 
 | 요일         | 주제                                       |
@@ -332,28 +336,22 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 6주차 - 객체지향의 사실과 오해 종료<br><br> </h2></summary>
+  <summary> <h2> 6주차 220809 ~ 220813 - 객체지향의 사실과 오해 종료<br><br> </h2></summary>
   <div markdown="6week">
 
 <br>
 
 | 요일         | 주제                                                               |
 |------------|------------------------------------------------------------------|
-| 220809 화요일 | Stream/Lambda(Java 8) <br> 객체지향의 사실과 오해(CH7) <br>  이펙티브 자바 Item6 |
+| 220809 화요일 | Stream/Lambda(Java 8) |
 | 220813 토요일 | Authentication, Authorization Filter 구현 |
 
 ## 화요일 스터디 정리본
 
-|발표자|발표자료 레포지토리 링크|
-|---|---|
+|발표자| 발표자료 레포지토리 링크                                                        |
+|---|----------------------------------------------------------------------|
 |JIWON-JEONG||
-|Diger-King||
-
-
-|구분|토의 내용 정리|
-|---|---|
-|객체지향의 사실과 오해||
-|이펙티브 자바| |
+|Diger-King| [Stream/Lambda](https://diger-king.github.io/blog/Java8StreamLambda) |
 
 </div>
 </details>
@@ -373,15 +371,10 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 
 ## 화요일 스터디 정리본
 
-|발표자|발표자료 레포지토리 링크|
-|---|---|
+|발표자| 발표자료 레포지토리 링크                                                                                                                                                                            |
+|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |JIWON-JEONG||
-|Diger-King||
-
-
-|구분|토의 내용 정리|
-|---|---|
-|이펙티브 자바| |
+|Diger-King| [SERVLET](https://diger-king.github.io/blog/WhatIsServlet) <br> [Filter Dispatcher Interceptor](https://diger-king.github.io/blog/Filter-DispatchServlet-Interceptor) <br> [Filter 구현](https://diger-king.github.io/blog/SpirngCustomFilter) |
 
 </div>
 </details>
@@ -389,7 +382,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 8주차 <br><br> </h2></summary>
+  <summary> <h2> 8주차 220822 ~ 220825<br><br> </h2></summary>
   <div markdown="8week">
 
 <br>
@@ -407,9 +400,10 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |Diger-King||
 
 
-|구분|토의 내용 정리|
-|---|---|
-|이펙티브 자바| |
+| 구분          | 토의 내용 정리                                                                                                     |
+|-------------|--------------------------------------------------------------------------------------------------------------|
+| 객체지향 사실과 오해 | [Chapter 6. 객체 지도]() <br> [Chapter 7. 함께 모으기]() <br> [부록]()                                                  |
+| 이펙티브 자바     | [Item 6 - 불필요한 객체 생성을 피하라]() <br> [Item 7 - 다 쓴 객체 참조를 해제하라]() <br> [Item 8 - finalizer 와 cleaner 사용을 피하라]() |
 
 </div>
 </details>
