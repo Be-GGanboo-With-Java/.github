@@ -359,7 +359,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 7주차 <br><br> </h2></summary>
+  <summary> <h2> 7주차 220815 ~ 220820<br><br> </h2></summary>
   <div markdown="7week">
 
 <br>
