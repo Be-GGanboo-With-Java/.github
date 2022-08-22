@@ -41,7 +41,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG|https://velog.io/@john7645/OOP-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%99%80-PP-%EC%A0%88%EC%B0%A8%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D|
-|Diger-King|https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week1/ObjectOrientedProgramming.md|
+|K-Diger|https://github.com/MoveForword-Java/K-Diger/blob/main/src/Week1/ObjectOrientedProgramming.md|
 
 ---
 
@@ -56,7 +56,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG|https://velog.io/@john7645/%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%86%8C%EB%A9%B8-%EC%8B%9C-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-%EA%B3%BC%EC%A0%95, https://velog.io/@john7645/isEmpty-%EC%99%80-null, https://github.com/JIWEON-JEONG/Study/blob/master/src/com/company/iter_foreach/CompareIterForeach.java|
-|Diger-King|https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/CreateAndPerishObject.md, https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/NullVsEmpty.md, https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/IteratorVsForeach.md|
+|K-Diger|https://github.com/MoveForword-Java/K-Diger/blob/main/src/Week2/CreateAndPerishObject.md, https://github.com/MoveForword-Java/K-Diger/blob/main/src/Week2/NullVsEmpty.md, https://github.com/MoveForword-Java/K-Diger/blob/main/src/Week2/IteratorVsForeach.md|
 
 ---
 
@@ -71,7 +71,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG|https://velog.io/@john7645/JVM-Specification-%ED%83%84%EC%83%9D%EB%B0%B0%EA%B2%BD, https://velog.io/@john7645/GC|
-|Diger-King|https://diger-king.github.io/blog/JVM, https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week3/GarbageCollector.md|
+|K-Diger|https://K-Diger.github.io/blog/JVM, https://github.com/MoveForword-Java/K-Diger/blob/main/src/Week3/GarbageCollector.md|
 
 ---
 
@@ -86,7 +86,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG|https://velog.io/@john7645/JIT-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-IBM-doc|
-|Diger-King|https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week4/JIT-Compiler.md|
+|K-Diger|https://github.com/MoveForword-Java/K-Diger/blob/main/src/Week4/JIT-Compiler.md|
 
 ---
 
@@ -101,7 +101,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG|https://github.com/JIWEON-JEONG/Study/tree/master/src/com/company/collection|
-|Diger-King||
+|K-Diger||
 
 <br>
 
@@ -122,16 +122,16 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 
 | 주제                                                      | 발표자료                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 객체지향이란?                                                 | [발표자-정지원](https://velog.io/@john7645/OOP-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%99%80-PP-%EC%A0%88%EC%B0%A8%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br>[발표자-김도현](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week1/ObjectOrientedProgramming.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 객체 생성과 소멸 시 동작 과정, Iterator vs ForEach, Null vs IsEmpty | [발표자-정지원-객체생성/소멸](https://velog.io/@john7645/%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%86%8C%EB%A9%B8-%EC%8B%9C-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-%EA%B3%BC%EC%A0%95) <br> [발표자-정지원-Null vs IsEmpty](https://velog.io/@john7645/isEmpty-%EC%99%80-null) <br> [발표자-정지원-Iterator vs ForEach](https://github.com/JIWEON-JEONG/Study/blob/master/src/com/company/iter_foreach/CompareIterForeach.java) <br> [발표자-김도현-객체생성/소멸](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/CreateAndPerishObject.md) <br> [발표자-김도현-Iterator vs ForEach](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/IteratorVsForeach.md) <br> [발표자-김도현-Null vs IsEmpty](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week2/NullVsEmpty.md) |
-| JVM, GC                                                 | [발표자-정지원-JVM](https://velog.io/@john7645/JVM-Specification-%ED%83%84%EC%83%9D%EB%B0%B0%EA%B2%BD) <br> [발표자-정지원-GC](https://velog.io/@john7645/GC) <br> [발표자-김도현-JVM](https://diger-king.github.io/blog/JavaDeep-JVM) <br> [발표자-김도현-GC](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week3/GarbageCollector.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| JIT 컴파일러 + Java Build                                   | [발표자-정지원](https://velog.io/@john7645/JIT-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-IBM-doc) <br> [발표자-김도현](https://github.com/MoveForword-Java/Diger-King/blob/main/src/Week4/JIT-Compiler.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 객체지향이란?                                                 | [발표자-정지원](https://velog.io/@john7645/OOP-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%99%80-PP-%EC%A0%88%EC%B0%A8%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br>[발표자-김도현](https://github.com/MoveForword-Java/K-Diger/blob/main/src/Week1/ObjectOrientedProgramming.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 객체 생성과 소멸 시 동작 과정, Iterator vs ForEach, Null vs IsEmpty | [발표자-정지원-객체생성/소멸](https://velog.io/@john7645/%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%86%8C%EB%A9%B8-%EC%8B%9C-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-%EA%B3%BC%EC%A0%95) <br> [발표자-정지원-Null vs IsEmpty](https://velog.io/@john7645/isEmpty-%EC%99%80-null) <br> [발표자-정지원-Iterator vs ForEach](https://github.com/JIWEON-JEONG/Study/blob/master/src/com/company/iter_foreach/CompareIterForeach.java) <br> [발표자-김도현-객체생성/소멸](https://github.com/MoveForword-Java/K-Diger/blob/main/src/Week2/CreateAndPerishObject.md) <br> [발표자-김도현-Iterator vs ForEach](https://github.com/MoveForword-Java/K-Diger/blob/main/src/Week2/IteratorVsForeach.md) <br> [발표자-김도현-Null vs IsEmpty](https://github.com/MoveForword-Java/K-Diger/blob/main/src/Week2/NullVsEmpty.md) |
+| JVM, GC                                                 | [발표자-정지원-JVM](https://velog.io/@john7645/JVM-Specification-%ED%83%84%EC%83%9D%EB%B0%B0%EA%B2%BD) <br> [발표자-정지원-GC](https://velog.io/@john7645/GC) <br> [발표자-김도현-JVM](https://K-Diger.github.io/blog/JavaDeep-JVM) <br> [발표자-김도현-GC](https://github.com/MoveForword-Java/K-Digerg/blob/main/src/Week3/GarbageCollector.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| JIT 컴파일러 + Java Build                                   | [발표자-정지원](https://velog.io/@john7645/JIT-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-IBM-doc) <br> [발표자-김도현](https://github.com/MoveForword-Java/K-Diger/blob/main/src/Week4/JIT-Compiler.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Collection                                              | [발표자-정지원](https://github.com/JIWEON-JEONG/Study/tree/master/src/com/company/collection)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Gralde, War, War                                        | [발표자-김도현](https://diger-king.github.io/blog/JARvsWAR)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| final, static                                           | [발표자-김도현](https://diger-king.github.io/blog/JavaDeep-Java-Static)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| JDBC, Hibernate, ORM                                    | [발표자-김도현-JDBC](https://diger-king.github.io/blog/JDBC) <br> [발표자-김도현-Hibernate](https://diger-king.github.io/blog/Hibernate) <br> [발표자-김도현-ORM](https://diger-king.github.io/blog/ORM)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Stream/Lambda                                           | [발표자-김도현-Stream/Lambda](https://diger-king.github.io/blog/Java8StreamLambda)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Servlet                                                 | [발표자-김도현-Servlet](https://diger-king.github.io/blog/WhatIsServlet) <br> [발표자-김도현-Filter/DispatcherServlet/Interceptor](https://diger-king.github.io/blog/Filter-DispatchServlet-Interceptor)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Gralde, War, War                                        | [발표자-김도현](https://K-Diger.github.io/blog/JARvsWAR)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| final, static                                           | [발표자-김도현](https://K-Diger.github.io/blog/JavaDeep-Java-Static)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| JDBC, Hibernate, ORM                                    | [발표자-김도현-JDBC](https://K-Diger.github.io/blog/JDBC) <br> [발표자-김도현-Hibernate](https://K-Diger.github.io/blog/Hibernate) <br> [발표자-김도현-ORM](https://K-Diger.github.io/blog/ORM)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Stream/Lambda                                           | [발표자-김도현-Stream/Lambda](https://K-Diger.github.io/blog/Java8StreamLambda)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Servlet                                                 | [발표자-김도현-Servlet](https://K-Diger.github.io/blog/WhatIsServlet) <br> [발표자-김도현-Filter/DispatcherServlet/Interceptor](https://K-Diger.github.io/blog/Filter-DispatchServlet-Interceptor)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ## 객체지향의 사실과 오해, Effective Java 토의 내용 정리본
 | 구분                                                    | 정리 자료                                                                                                 |
@@ -173,7 +173,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King|https://diger-king.github.io/blog/JARvsWAR|
+|K-Diger|https://K-Diger.github.io/blog/JARvsWAR|
 
 ---
 
@@ -199,7 +199,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King|https://diger-king.github.io/blog/JavaDeep-Java-Static|
+|K-Diger|https://K-Diger.github.io/blog/JavaDeep-Java-Static|
 
 <br>
 
@@ -231,7 +231,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King|[이펙티브 자바 Item 3](https://diger-king.github.io/blog/EffectiveJava-item3) <br> [객체지향의 사실과 오해 CH4](https://diger-king.github.io/blog/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-4)|
+|K-Diger|[이펙티브 자바 Item 3](https://K-Diger.github.io/blog/EffectiveJava-item3) <br> [객체지향의 사실과 오해 CH4](https://K-Diger.github.io/blog/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-4)|
 
 <br>
 
@@ -267,7 +267,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King|[JDBC](https://diger-king.github.io/blog/JDBC) <br> [Hibernate](https://diger-king.github.io/blog/Hibernate) <br> [ORM](https://diger-king.github.io/blog/ORM)|
+|K-Diger|[JDBC](https://K-Diger.github.io/blog/JDBC) <br> [Hibernate](https://K-Diger.github.io/blog/Hibernate) <br> [ORM](https://K-Diger.github.io/blog/ORM)|
 
 <br>
 
@@ -287,7 +287,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |구분| 과제 토의                                                                                                    |
 |---|----------------------------------------------------------------------------------------------------------|
 |JIWON-JEONG| [객체지향 사실과 오해 키워드 다이어그램 정리](https://github.com/MoveForword-Java/.github/files/9209805/usecaseDiagram.pdf) |
-|Diger-King| [객체지향 사실과 오해 키워드 다이어그램 정리](https://user-images.githubusercontent.com/60564431/180943456-6678618a-92ef-4edd-aa7b-5f0499fd9c01.jpg)                                                                             |
+|K-Diger| [객체지향 사실과 오해 키워드 다이어그램 정리](https://user-images.githubusercontent.com/60564431/180943456-6678618a-92ef-4edd-aa7b-5f0499fd9c01.jpg)                                                                             |
 
 
 ---
@@ -322,7 +322,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King|https://diger-king.github.io/blog/EffectiveJava-item5|
+|K-Diger|https://K-Diger.github.io/blog/EffectiveJava-item5|
 
 <br>
 
@@ -351,7 +351,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자| 발표자료 레포지토리 링크                                                        |
 |---|----------------------------------------------------------------------|
 |JIWON-JEONG||
-|Diger-King| [Stream/Lambda](https://diger-king.github.io/blog/Java8StreamLambda) |
+|K-Diger| [Stream/Lambda](https://diger-king.github.io/blog/Java8StreamLambda) |
 
 </div>
 </details>
@@ -374,7 +374,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자| 발표자료 레포지토리 링크                                                                                                                                                                            |
 |---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |JIWON-JEONG||
-|Diger-King| [SERVLET](https://diger-king.github.io/blog/WhatIsServlet) <br> [Filter Dispatcher Interceptor](https://diger-king.github.io/blog/Filter-DispatchServlet-Interceptor) <br> [Filter 구현](https://diger-king.github.io/blog/SpirngCustomFilter) |
+|K-Diger| [SERVLET](https://K-Diger.github.io/blog/WhatIsServlet) <br> [Filter Dispatcher Interceptor](https://K-Diger.github.io/blog/Filter-DispatchServlet-Interceptor) <br> [Filter 구현](https://K-Diger.github.io/blog/SpirngCustomFilter) |
 
 </div>
 </details>
@@ -397,7 +397,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자|발표자료 레포지토리 링크|
 |---|---|
 |JIWON-JEONG||
-|Diger-King||
+|K-Diger||
 
 
 | 구분          | 토의 내용 정리                                                                                                     |
