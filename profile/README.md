@@ -306,7 +306,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 
 |발표자|발표자료 레포지토리 링크|
 |---|---|
-|JIWON-JEONG||
+|JIWON-JEONG|https://github.com/JIWEON-JEONG/STUDY/blob/master/PROJECT/TIL/src/main/java/STUDY/TIL/java/effective_java/Week5.java|
 |K-Diger|https://K-Diger.github.io/blog/EffectiveJava-item5|
 
 | 구분                                       | 토의 내용 정리                                                                                                 |
@@ -333,7 +333,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 
 |발표자| 발표자료 레포지토리 링크                                                        |
 |---|----------------------------------------------------------------------|
-|JIWON-JEONG||
+|JIWON-JEONG|[Lambda](https://github.com/JIWEON-JEONG/STUDY/tree/master/PROJECT/TIL/src/main/java/STUDY/TIL/java/annonymous_and_lambda)|
 |K-Diger| [Stream/Lambda](https://diger-king.github.io/blog/Java8StreamLambda) |
 
 </div>
@@ -356,7 +356,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 
 |발표자| 발표자료 레포지토리 링크                                                                                                                                                                            |
 |---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|JIWON-JEONG||
+|JIWON-JEONG|[Filter](https://github.com/JIWEON-JEONG/STUDY/blob/master/PROJECT/TIL/src/main/java/STUDY/TIL/java/servlet/servlet.md)<br>[Filter 구현](https://github.com/JIWEON-JEONG/CustomFilter)|
 |K-Diger| [SERVLET](https://K-Diger.github.io/blog/WhatIsServlet) <br> [Filter Dispatcher Interceptor](https://K-Diger.github.io/blog/Filter-DispatchServlet-Interceptor) <br> [Filter 구현](https://K-Diger.github.io/blog/SpirngCustomFilter) |
 
 </div>
