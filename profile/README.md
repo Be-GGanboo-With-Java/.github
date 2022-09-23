@@ -409,7 +409,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 |발표자| 발표자료 레포지토리 링크   |
 |---|-----------------|
 |JIWON-JEONG||
-|K-Diger| [EffectiveJava 57. 지역변수의 범위를 최소화하라](https://k-diger.github.io/blog/2022/09/02/EffectiveJava-item57/) <br> [EffectiveJava 58. 전통적인 for 문 보다는 for-each 문을 사용하라](https://k-diger.github.io/blog/2022/09/02/EffectiveJava-item58/) <br> [EffectiveJava 60. 정확한 답이 필요하다면 float와 double은 피하라](https://k-diger.github.io/blog/2022/09/05/EffectiveJava-item60/) [OAuth와 깐부맺기](https://k-diger.github.io/blog/2022/08/31/OAuth%EC%99%80%EA%B9%90%EB%B6%80%EB%A7%BA%EA%B8%B0/) |
+|K-Diger| [EffectiveJava 57. 지역변수의 범위를 최소화하라](https://k-diger.github.io/blog/2022/09/02/EffectiveJava-item57/) <br> [EffectiveJava 58. 전통적인 for 문 보다는 for-each 문을 사용하라](https://k-diger.github.io/blog/2022/09/02/EffectiveJava-item58/) <br> [EffectiveJava 60. 정확한 답이 필요하다면 float와 double은 피하라](https://k-diger.github.io/blog/2022/09/05/EffectiveJava-item60/) <br> [OAuth와 깐부맺기](https://k-diger.github.io/blog/2022/08/31/OAuth%EC%99%80%EA%B9%90%EB%B6%80%EB%A7%BA%EA%B8%B0/) |
 
 </div>
 </details>
