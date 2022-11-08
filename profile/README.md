@@ -147,8 +147,12 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 | Servlet                                                 | [발표자-정지원](https://github.com/JIWEON-JEONG/TIL/tree/master/src/main/java/TIL/java/servlet) <br> [발표자-김도현-Servlet](https://K-Diger.github.io/blog/WhatIsServlet) <br> [발표자-김도현-Filter/DispatcherServlet/Interceptor](https://K-Diger.github.io/blog/Filter-DispatchServlet-Interceptor)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 </details>
+
+## Spring 스터디 정리본
   
-[이펙티브 자바 스터디 레포지토리](https://github.com/Be-GGanboo-With-Java/We-Love-Java)
+[Spring 스터디 정리본 레포지토리](https://github.com/Be-GGanboo-With-Java/We-Love-Spring)
+  
+[이펙티브 자바 스터디 레포지토리](https://github.com/Be-GGanboo-With-Java/EffectiveJava)
   
 <details>
   
@@ -171,6 +175,12 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 
 
 </details>
+
+  
+  
+[객체지향 사실과 오해 스터디 레포지토리](https://github.com/Be-GGanboo-With-Java/Object-Oriented-Truths-and-Errors)
+  
+[만들면서 배우는 클린 아키텍처 스터디 레포지토리](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture)
 
 ---
 
