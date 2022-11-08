@@ -146,7 +146,12 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 | Stream/Lambda                                           | [발표자-정지원](https://github.com/JIWEON-JEONG/TIL/tree/master/src/main/java/TIL/java/annonymous_and_lambda) <br> [발표자-김도현-Stream/Lambda](https://K-Diger.github.io/blog/Java8StreamLambda)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Servlet                                                 | [발표자-정지원](https://github.com/JIWEON-JEONG/TIL/tree/master/src/main/java/TIL/java/servlet) <br> [발표자-김도현-Servlet](https://K-Diger.github.io/blog/WhatIsServlet) <br> [발표자-김도현-Filter/DispatcherServlet/Interceptor](https://K-Diger.github.io/blog/Filter-DispatchServlet-Interceptor)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-  </details>
+</details>
+  
+[이펙티브 자바 스터디 레포지토리](https://github.com/Be-GGanboo-With-Java/We-Love-Java)
+  
+<details>
+  
 ## 객체지향의 사실과 오해, Effective Java 토의 내용 정리본
 | 구분                                                    | 정리 자료                                                                                                 |
 |-------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -164,6 +169,8 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 | Effective Java Item7. 다 쓴 객체 참조를 해제하라                 | [다 쓴 객체 참조를 해제하라]()                                                                                   |
 | Effective Java Item8. finalizer와 cleaner 사용을 피하라      | [finalizer와 cleaner 사용을 피하라]()                                                                                   |
 
+
+</details>
 
 ---
 
