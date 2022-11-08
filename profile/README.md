@@ -42,7 +42,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 리뉴얼 이전 내용 </summary>
+  <summary> <h3> 리뉴얼 이전 내용 </summary>
   <div markdown="Previous">
 
 ### 1주차 - 22/05/09
@@ -162,7 +162,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 1주차 220705 ~ 220709 <br><br> </h2></summary>
+  <summary> <h3> 1주차 220705 ~ 220709 <br><br> </h2></summary>
   <div markdown="1week">
 
 ## 주제
@@ -187,7 +187,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 2주차 220712 ~ 220716<br><br> </h2></summary>
+  <summary> <h3> 2주차 220712 ~ 220716<br><br> </h2></summary>
   <div markdown="2week">
 
 ## 주제
@@ -216,7 +216,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 3주차 220719 ~ 220723 <br><br> </h2></summary>
+  <summary> <h3> 3주차 220719 ~ 220723 <br><br> </h2></summary>
   <div markdown="3week">
 
 ## 주제
@@ -246,7 +246,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 4주차 220726 ~ 220730<br><br> </h2></summary>
+  <summary> <h3> 4주차 220726 ~ 220730<br><br> </h2></summary>
   <div markdown="4week">
 
 ## 주제
@@ -290,7 +290,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 5주차 220802 ~ 220806<br><br> </h2></summary>
+  <summary> <h3> 5주차 220802 ~ 220806<br><br> </h2></summary>
   <div markdown="5week">
 
 ## 주제
@@ -323,7 +323,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 6주차 220809 ~ 220813 - 객체지향의 사실과 오해 종료<br><br> </h2></summary>
+  <summary> <h3> 6주차 220809 ~ 220813 - 객체지향의 사실과 오해 종료<br><br> </h2></summary>
   <div markdown="6week">
 
 ## 주제
@@ -346,7 +346,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 7주차 220815 ~ 220820<br><br> </h2></summary>
+  <summary> <h3> 7주차 220815 ~ 220820<br><br> </h2></summary>
   <div markdown="7week">
 
 ## 주제
@@ -369,7 +369,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 8주차 220822 ~ 220825<br><br> </h2></summary>
+  <summary> <h3> 8주차 220822 ~ 220825<br><br> </h2></summary>
   <div markdown="8week">
 
 ## 주제
@@ -398,7 +398,7 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 ---
 
 <details>
-  <summary> <h2> 9주차 220829 ~ 220901<br><br> </h2></summary>
+  <summary> <h3> 9주차 220829 ~ 220901<br><br> </h2></summary>
   <div markdown="8week">
 
 ## 주제 
