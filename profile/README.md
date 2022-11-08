@@ -126,23 +126,23 @@ QueryDSL 및 TDD 전 강의 수강으로 인한 다른 주제로 스터디 연�
 
 ---
 
-## 자바 이론 스터디 정리본
+## Java
 
 [자바 이론 스터디 정리본 레포지토리](https://github.com/Be-GGanboo-With-Java/We-Love-Java)
 
-## Spring 스터디 정리본
+## Spring
   
 [Spring 스터디 정리본 레포지토리](https://github.com/Be-GGanboo-With-Java/We-Love-Spring)
 
-## 이펙티ㅡ 자바 스터디 레포지토리
+## 이펙티브 자바
   
 [이펙티브 자바 스터디 레포지토리](https://github.com/Be-GGanboo-With-Java/EffectiveJava)
 
-## 객체지향 사실과 오해 스터디 정리본
+## 객체지향 사실과 오해
 
 [객체지향 사실과 오해 스터디 레포지토리](https://github.com/Be-GGanboo-With-Java/Object-Oriented-Truths-and-Errors)
 
-## 만들면서 배우는 클린 아키텍처 스터디 스터디 정리본
+## 만들면서 배우는 클린 아키텍처
 
 [만들면서 배우는 클린 아키텍처 스터디 레포지토리](https://github.com/Be-GGanboo-With-Java/MadeYourself_CleanArchitecture)
 
