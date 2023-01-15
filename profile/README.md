@@ -4,8 +4,6 @@
 
 [자바 이론 스터디 정리본 레포지토리](https://github.com/Be-GGanboo-With-Java/We-Love-Java)
 
----
-
 ## Spring
 
 [Spring 스터디 정리본 레포지토리](https://github.com/Be-GGanboo-With-Java/We-Love-Spring)
